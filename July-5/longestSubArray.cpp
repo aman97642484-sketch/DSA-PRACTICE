@@ -36,7 +36,7 @@ void subArraySliding(vector<int> v, int n, int k){
 
 int main(){
     vector<int> v  = {2,5,1,2,4,7,10};
-    vector<int> v2  = {2,5,1,10,10};
+    vector<int> v2  = {2,3,1,2,4,3};
 
     int n = v.size();
     int n2 = v2.size();
